@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1686480073 source:c:\users\cristian\desktop\bankapp\main.cpp
+	"Bank.h"
+	<iostream>
+	<vector>
+
+1686499700 c:\users\cristian\desktop\bankapp\include\bank.h
+	<string>
+	<vector>
+
+1686499624 source:c:\users\cristian\desktop\bankapp\src\bank.cpp
+	"Bank.h"
+	<iostream>
+
+1686568905 source:c:\users\cristian\desktop\aplicatie\bankapp\main.cpp
+	"Bank.h"
+	<iostream>
+	<vector>
+
+1686499700 c:\users\cristian\desktop\aplicatie\bankapp\include\bank.h
+	<string>
+	<vector>
+
+1686499624 source:c:\users\cristian\desktop\aplicatie\bankapp\src\bank.cpp
+	"Bank.h"
+	<iostream>
+
